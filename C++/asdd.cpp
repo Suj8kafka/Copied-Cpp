@@ -6,6 +6,7 @@
 #define computer 150
 #define food 100
 
+
 struct teacherr
 {
 	int teachercode;
